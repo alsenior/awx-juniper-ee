@@ -3,3 +3,4 @@ junos-eznc
 jxmlease
 jsnapy
 jmespath #Added for Json Parsing 
+quay.io/ansible/awx-ee 
